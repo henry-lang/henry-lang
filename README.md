@@ -10,14 +10,14 @@
 <hr>
 
 <h2>👨‍💻 What do I enjoy using?</h2>  
-    <details>
-        <summary>🌐 Frontend</summary>
-            <img height="20px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"></img>
-            <img height="20px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"></img>
-            <img height="20px" src="https://img.shields.io/badge/js-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"></img>
-            <img height="20px" src="https://img.shields.io/badge/ts-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"></img>
-            <img height="20px" src="https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white"></img>
-    </details>
+<details>
+    <summary>🌐 Frontend</summary>
+    <img height="20px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"></img>
+    <img height="20px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"></img>
+    <img height="20px" src="https://img.shields.io/badge/js-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"></img>
+    <img height="20px" src="https://img.shields.io/badge/ts-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"></img>
+    <img height="20px" src="https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white"></img>
+</details>
 <details>
     <summary>⚡ Backend</summary>
     <img height="20px" src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"></img>
@@ -40,8 +40,10 @@
     <img height="20px" src="https://img.shields.io/badge/vsc-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></img>
     <img height="20px" src="https://img.shields.io/badge/clion-3DDC84?style=flat-square&logo=clion&logoColor=white"></img>
 </details>
+<hr>
 
-<hr><h2>👨‍💻 How to reach me.</h2>
+<h2>👨‍💻 How to reach me!</h2>
+<p>Work in progress!</p>
 
 </ul>
 <hr>
