@@ -4,7 +4,7 @@
 <h2>👋 I'm Henry Langmack, a self-taught programmer.</h2>  
 <ul>
     <li>📍 I'm 14, and I'm currently living in New Jersey. </li>
-    <li>🕒 I started programming around 2016 and was introduced by a cousin.</li>
+    <li>🕒 I started programming since I was 9 and was introduced by <a href="https://github.com/SpexGuy">a cousin.</a></li>
     <li>💻 Shortly after I started attending KidOYO during summers and have been doing some student-mentor work there since last summer.</li>
 </ul>
 <hr>
@@ -51,7 +51,7 @@
 <hr>
 
 <h2>📞 How to reach me!</h2>
-<img height="20px" src="https://img.shields.io/badge/henrylang#7718-%237289DA.svg?style=flat-square&logo=discord&logoColor=white"></img>
+<img height="20px" src="https://img.shields.io/badge/henrylang%237718-%237289DA.svg?style=flat-square&logo=discord&logoColor=white"></img>
 <img height="20px" src="https://img.shields.io/badge/henry.langmack@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></img>
 <hr>
 
