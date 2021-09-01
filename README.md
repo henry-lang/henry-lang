@@ -47,12 +47,12 @@
     <img height="20px" src="https://img.shields.io/badge/manjaro-35BF5C?style=flat-square&logo=Manjaro&logoColor=white"></img>
     <img height="20px" src="https://img.shields.io/badge/win10-0078D6?style=flat-square&logo=windows&logoColor=white"></img>
     <img height="20px" src="https://img.shields.io/badge/firefox-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white"></img>
-    <img height="20px" src="https://img.shields.io/badge/duckduckgo-DE5833?style=flat-square&logo=DuckDuckGo&logoColor=white"></img>
 </details>
 <hr>
 
-<h2>👨‍💻 How to reach me!</h2>
-<p>Work in progress!</p>
+<h2>📞 How to reach me!</h2>
+<img height="20px" src="https://img.shields.io/badge/henrylang#7718-%237289DA.svg?style=flat-square&logo=discord&logoColor=white"></img>
+<img height="20px" src="https://img.shields.io/badge/henry.langmack@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></img>
 <hr>
 
 <image src="https://komarev.com/ghpvc/?username=henry-lang&color=grey&style=flat-square"></image>
