@@ -8,7 +8,7 @@
     <li>💻 Shortly after I started attending KidOYO during summers and have been doing some student-mentor work there since last summer.</li>
 </ul>
 <hr>
-<marquee>
+
 <h2>👨‍💻 What do I enjoy using?</h2>  
 <details>
     <summary>🌐 Frontend</summary>
@@ -20,8 +20,9 @@
 </details>
 <details>
     <summary>⚡ Backend</summary>
-    <img height="20px" src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"></img>
-    <img height="20px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB"></img>
+    <img height="20px" src="https://img.shields.io/badge/node-6DA55F?style=flat-square&logo=node.js&logoColor=white"></img>
+    <img height="20px" src="https://img.shields.io/badge/express-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB"></img>
+    <img height="20px" src="https://img.shields.io/badge/mongo-white.svg?style=flat-square&logo=mongodb&logoColor=4ea94b"></img>
 </details>
 <details>
     <summary>🤖 Lower Level</summary>
@@ -39,11 +40,19 @@
     <summary>✏️ Text Editor</summary> 
     <img height="20px" src="https://img.shields.io/badge/vsc-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></img>
     <img height="20px" src="https://img.shields.io/badge/clion-3DDC84?style=flat-square&logo=clion&logoColor=white"></img>
+    <img height="20px" src="https://img.shields.io/badge/vim-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white"></img>
+</details>
+<details>
+    <summary>❓ Other</summary>
+    <img height="20px" src="https://img.shields.io/badge/manjaro-35BF5C?style=flat-square&logo=Manjaro&logoColor=white"></img>
+    <img height="20px" src="https://img.shields.io/badge/win10-0078D6?style=flat-square&logo=windows&logoColor=white"></img>
+    <img height="20px" src="https://img.shields.io/badge/firefox-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white"></img>
+    <img height="20px" src="https://img.shields.io/badge/duckduckgo-DE5833?style=flat-square&logo=DuckDuckGo&logoColor=white"></img>
 </details>
 <hr>
 
 <h2>👨‍💻 How to reach me!</h2>
 <p>Work in progress!</p>
 <hr>
-</marquee>
+
 <image src="https://komarev.com/ghpvc/?username=henry-lang&color=grey&style=flat-square"></image>
