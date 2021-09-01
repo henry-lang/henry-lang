@@ -8,7 +8,7 @@
     <li>💻 Shortly after I started attending KidOYO during summers and have been doing some student-mentor work there since last summer.</li>
 </ul>
 <hr>
-
+<marquee>
 <h2>👨‍💻 What do I enjoy using?</h2>  
 <details>
     <summary>🌐 Frontend</summary>
@@ -44,8 +44,6 @@
 
 <h2>👨‍💻 How to reach me!</h2>
 <p>Work in progress!</p>
-
-</ul>
 <hr>
-
+</marquee>
 <image src="https://komarev.com/ghpvc/?username=henry-lang&color=grey&style=flat-square"></image>
