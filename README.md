@@ -4,7 +4,7 @@
 <h2>👋 Hey, I'm Henry Langmack!</h2>  
 <ul>
     <li>📍 I'm 14, and I'm currently living in New Jersey. </li>
-    <li>🕒 I started programming since I was 9 and was introduced by <a href="https://github.com/SpexGuy">a cousin.</a></li>
+    <li>🕒 I've been programming since I was 9 and was introduced by <a href="https://github.com/SpexGuy">a cousin.</a></li>
     <li>💻 Shortly after I started attending KidOYO during summers and have been doing some student-mentor work there since last summer.</li>
 </ul>
 <hr>
