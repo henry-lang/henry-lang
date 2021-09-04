@@ -1,7 +1,7 @@
 <p align="center"><image src="assets/banner.png" align="center" width="900px"></image></p>
 <hr>
 
-<h2>👋 I'm Henry Langmack, a self-taught programmer.</h2>  
+<h2>👋 Hey, I'm Henry Langmack!</h2>  
 <ul>
     <li>📍 I'm 14, and I'm currently living in New Jersey. </li>
     <li>🕒 I started programming since I was 9 and was introduced by <a href="https://github.com/SpexGuy">a cousin.</a></li>
