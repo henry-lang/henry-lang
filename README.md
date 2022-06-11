@@ -5,7 +5,7 @@
 <ul>
     <li>📍 I'm 14, and I'm currently living in New Jersey. </li>
     <li>🕒 I've been programming since I was 9 and was introduced by <a href="https://github.com/SpexGuy">a cousin.</a></li>
-    <li>💻 Shortly after I started attending KidOYO during summers and have been doing some student-mentor work there since last summer.</li>
+    <li>💻 Shortly after I started attending KidOYO during summers and did student mentor work in the summer of 2020.</li>
 </ul>
 <hr>
 
