@@ -39,7 +39,7 @@
 <details>
     <summary>✏️ Text Editor</summary> 
     <img height="20px" src="https://img.shields.io/badge/vsc-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></img>
-    <img height="20px" src="https://img.shields.io/badge/clion-3DDC84?style=flat-square&logo=clion&logoColor=white"></img>
+    with
     <img height="20px" src="https://img.shields.io/badge/vim-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white"></img>
 </details>
 <details>
