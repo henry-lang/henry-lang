@@ -1,4 +1,4 @@
-<p align="center"><image src="assets/banner.png" align="center" width="900px"></image></p>
+<p align="center"><image src="assets/banner.png" align="center" height="360px"></image></p>
 <hr>
 
 <h2>👋 Hey, I'm Henry Langmack!</h2>  
