@@ -14,9 +14,8 @@
     <summary>🌐 Frontend</summary>
     <img height="20px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"></img>
     <img height="20px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"></img>
-    <img height="20px" src="https://img.shields.io/badge/js-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"></img>
+    <img height="20px" src="https://img.shields.io/badge/dart-%230075BA.svg?style=flat-square&logo=dart&logoColor=white"></img>
     <img height="20px" src="https://img.shields.io/badge/ts-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"></img>
-    <img height="20px" src="https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white"></img>
 </details>
 <details>
     <summary>⚡ Backend</summary>
