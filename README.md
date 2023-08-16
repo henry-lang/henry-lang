@@ -45,7 +45,7 @@
 <details>
     <summary>❓ Other</summary>
     <img height="20px" src="https://img.shields.io/badge/manjaro-35BF5C?style=flat-square&logo=Manjaro&logoColor=white"></img>
-    <img height="20px" src="https://img.shields.io/badge/win10-0078D6?style=flat-square&logo=windows&logoColor=white"></img>
+    <img height="20px" src="https://img.shields.io/badge/win11-0078D6?style=flat-square&logo=windows&logoColor=white"></img>
     <img height="20px" src="https://img.shields.io/badge/firefox-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white"></img>
 </details>
 <hr>
